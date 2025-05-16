@@ -133,8 +133,8 @@ public class MoveForward : MonoBehaviour
 
 ```
 ## OUTPUT :
-![Screenshot 2025-05-08 171924](https://github.com/user-attachments/assets/4bc0db3e-14e9-4b0f-842a-52436411a7ea)
-![Screenshot 2025-05-08 124617](https://github.com/user-attachments/assets/0135e099-3d11-41e8-8e73-a3d75b12ed59)
+![image](https://github.com/user-attachments/assets/5ca10ff0-dd3b-47be-8bbd-41ac0bec44fe)
+![image](https://github.com/user-attachments/assets/906565e6-a547-47eb-8e93-1ffed84abb64)
 
 
 ## RESULT :
